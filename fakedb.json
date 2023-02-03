@@ -1,0 +1,74 @@
+[
+  {
+    "_id": 1,
+    "blog_name": "AMD Ryzen 5 5600X Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52522584794_4a9898a992_o.jpg",
+    "blog_topic": ["technology", "thinking"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 128200,
+    "rating": 3
+  },
+  {
+    "_id": 2,
+    "blog_name": "Intel 10th Gen Core i3-10100 Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52521844202_dd853335c9_o.jpg",
+    "blog_topic": ["thinking", "productivity"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 41800,
+    "rating": 4
+  },
+  {
+    "_id": 3,
+    "blog_name": "AMD Ryzen 5 3600 Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
+    "blog_topic": ["technology", "productivity"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 84400,
+    "rating": 5
+  },
+  {
+    "_id": 4,
+    "blog_name": "Gaming PC 10th Gen Core i5-10400f",
+    "blog_image": "https://live.staticflickr.com/65535/52522584684_9fa14a3332_o.jpg",
+    "blog_topic": ["technology", "productivity"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 56700,
+    "rating": 3
+  },
+  {
+    "_id": 5,
+    "blog_name": "Intel 10th Gen Core i7-10700 Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52522308736_8453894269_o.jpg",
+    "blog_topic": ["thinking", "productivity"],
+    "rating": 5,
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 102200
+  },
+  {
+    "_id": 6,
+    "blog_name": "Intel Core i5-11400 11th Gen Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52522308721_4f2de69503_o.jpg",
+    "blog_topic": ["technology", "thinking", "productivity"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 86200,
+    "rating": 2
+  },
+  {
+    "_id": 7,
+    "blog_name": "Intel 11th Gen Core i5-11400f Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
+    "blog_topic": ["technology", "thinking", "productivity"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 84000,
+    "rating": 5
+  },
+  {
+    "_id": 8,
+    "blog_name": "AMD Ryzen 7 5800X3D Gaming PC",
+    "blog_image": "https://live.staticflickr.com/65535/52521844332_5f738162d8_o.jpg",
+    "blog_topic": ["technology", "productivity"],
+    "blog_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem dignissimos, neque fugit aliquam consectetur quasi facilis rerum veniam commodi repellat. Tempore impedit distinctio libero eius eligendi dicta molestiae tenetur ipsa aspernatur alias dignissimos, qui consequuntur modi ducimus nesciunt ullam labore quasi cupiditate magnam. Architecto officiis quas cumque ipsum maxime? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, molestias nesciunt, nam voluptate quisquam dolorum doloribus minus illo accusamus ea pariatur optio voluptas itaque animi. Veritatis, odit distinctio cumque ratione dolorem quod doloremque quidem non iste quaerat perferendis excepturi adipisci. Impedit vero corporis cumque qui excepturi, repellendus, cum ex facere doloribus porro dolorem ullam dignissimos doloremque? Cupiditate vitae autem dolorem soluta, deleniti, illo vero nulla labore incidunt facere iste dolore commodi veniam, doloribus recusandae aperiam minus veritatis ea corrupti vel odit in officia ullam. At aperiam magni adipisci nemo, distinctio hic voluptatem numquam officia ipsam asperiores doloremque consequuntur minus maxime deserunt dolorum odio quis non! Perspiciatis, exercitationem eum perferendis atque fugiat soluta nobis tempore praesentium! Eos exercitationem, facilis perspiciatis consequatur dicta nam quas laborum nihil corrupti. Veritatis, mollitia aperiam ut aliquid tempore doloremque odit autem ab voluptas reiciendis commodi sapiente incidunt quod, at ea voluptatibus. Quasi temporibus facere asperiores eius!",
+    "price": 399999,
+    "rating": 3
+  }
+]
